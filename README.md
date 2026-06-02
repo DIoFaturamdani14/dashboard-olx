@@ -8,7 +8,9 @@ Dashboard dikembangkan menggunakan Microsoft Power BI dan memanfaatkan metode K-
 
 ## Preview Dashboard
 
-![Dashboard](dashboard.png)
+## Preview Dashboard
+
+![Dashboard](Dashboard_OLX.jpeg)
 
 ## Fitur Dashboard
 
